@@ -9,7 +9,7 @@ This is an interactive portfolio website built to showcase my projects, skills, 
 
 ## 🌟 Features
 
-- **3D Interactive Animations** using Three.js / WebGL  
+- **3D Interactive Animations** using Three.js 
 - **Responsive Design** compatible with desktop and mobile  
 - **Project Showcase** with hover effects and smooth transitions  
 - **Contact Section** with working email/links  
@@ -19,10 +19,8 @@ This is an interactive portfolio website built to showcase my projects, skills, 
 
 ## 💻 Tech Stack
 
-- HTML, CSS, JavaScript  
-- [Three.js](https://threejs.org/) for 3D graphics  
-- Optional: React / React Three Fiber for better interactivity  
-- Vite or Webpack for bundling (if using React)  
+- HTML, CSS, JavaScript
+- React js for interface
 
 ---
 
@@ -30,4 +28,5 @@ This is an interactive portfolio website built to showcase my projects, skills, 
 
 1. Clone the repository:  
 ```bash
+https://github.com/kundurukarthik15-gif/3D-Showcase.git
 
